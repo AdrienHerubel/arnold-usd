@@ -1,4 +1,4 @@
-//
+f//
 // SPDX-License-Identifier: Apache-2.0
 //
 
@@ -401,6 +401,7 @@ ASTR(parallel_node_init);
 ASTR(param_colorspace);
 ASTR(param_filename);
 ASTR(param_shader_file);
+ASTR(param_shader_file_colorspace);
 ASTR(parent_instance);
 ASTR(path);
 ASTR(penumbra_angle);
